@@ -1,2 +1,35 @@
 # ApiRest
 Uma API rest full em node express, conectando ao MongoDB
+
+# Dependencias
+node_modules/
+
+# Variaveis de ambiente
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build
+dist/
+build/
+
+# Cobertura de testes
+coverage/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do editor
+.vscode/
+.idea/
+
+# Cache
+.cache/
